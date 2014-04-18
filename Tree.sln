@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tree", "Tree\Tree.vcxproj", "{BC09E28D-BE5D-42BE-8BD4-0AA5B99AD0CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC09E28D-BE5D-42BE-8BD4-0AA5B99AD0CC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BC09E28D-BE5D-42BE-8BD4-0AA5B99AD0CC}.Debug|Win32.Build.0 = Debug|Win32
+		{BC09E28D-BE5D-42BE-8BD4-0AA5B99AD0CC}.Release|Win32.ActiveCfg = Release|Win32
+		{BC09E28D-BE5D-42BE-8BD4-0AA5B99AD0CC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
